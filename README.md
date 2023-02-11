@@ -1,6 +1,6 @@
 # Invoice Generator
 
-Invoice Generator allows you quickly make invoices and save them as PDF. [https://pateljigar8005.github.io/invoice-generator-app/](https://pateljigar8005.github.io/invoice-generator-app/)
+Invoice Generator allows you quickly make invoices and save them as PDF. [https://pateljigar8005.github.io/invoice-generator/](https://pateljigar8005.github.io/invoice-generator/)
 
 ![invoice-generator-app/](https://raw.githubusercontent.com/pateljigar8005/invoice-generator/master/invoice-generator.png)
 
